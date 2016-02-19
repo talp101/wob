@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Wob</string>
+
+    <string name="next">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_search">serach</string>
+    <string name="search_hint">search for video</string>
+</resources>

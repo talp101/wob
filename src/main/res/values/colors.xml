@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="ColorPrimary">#e62117</color>-->
+    <!--<color name="ColorPrimaryDark">#c31c13</color>-->
+    <!--<color name="tabsScrollColor">#8a140e</color>-->
+    <color name="window_background">#fffefefe</color>
+    <color name="my_primary">#F44336</color>
+    <color name="my_primary_dark">#C62828</color>
+    <color name="my_primary_light">#FFEBEE</color>
+    <color name="my_accent">#F44336</color>
+    <color name="my_primary_text">#ff000000</color>
+    <color name="my_secondary_text">#C62828</color>
+    <color name="my_icons">#FFFFFF</color>
+    <color name="my_divider">#B6B6B6</color>
+</resources>
